@@ -18,4 +18,14 @@ commit:
   
 push:
   git push -u origin <branch_name>
+
+create branch: 
+  git checkout -b <branch_name>
+
+delete branch:
+  go to other branch
+  git branch -d <name_of_the_branch_to_be_deleted>
+
+rename branch:
+  git branch -M <new_name>
   
