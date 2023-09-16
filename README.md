@@ -10,7 +10,7 @@ pull:
   when in other local branch pull from main: git pull origin main
 
 add changes:
-  specific: git add <specific file>,
+  specific: git add <specific_file>,
   all: git add .
 
 commit:
